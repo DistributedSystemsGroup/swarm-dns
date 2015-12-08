@@ -1,0 +1,3 @@
+docker-py==1.5.0
+dnspython3
+kazoo
